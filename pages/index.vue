@@ -2,5 +2,5 @@
 </script>
 
 <template>
-<div text="center red-700 dark:white">21pixeloids</div>
+<div text="center 8xl" font-bold>21pixeloids</div>
 </template>
