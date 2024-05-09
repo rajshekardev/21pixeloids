@@ -1,0 +1,120 @@
+<template>
+  <div class="bg-white pb-16 pl-4 pr-4 pt-16 lg:px-8 lg:py-20 md:px-24">
+    <div class="ml-auto mr-auto md:max-w-full sm:max-w-xl lg:max-w-screen-xl">
+      <div class="mb-6 flex flex-col md:mb-8 lg:flex-row lg:justify-between">
+        <div class="group mb-5 max-w-lg md:mb-6">
+          <p
+            class="mb-1 inline text-3xl text-gray-900 font-bold tracking-tight font-sans sm:mb-4 sm:text-4xl sm:leading-none"
+          >
+            Why choose us?
+          </p>
+          <br class="hidden md:block">
+          <p
+            class="mb-1 inline text-6xl text-gray-900 font-bold tracking-tight font-sans sm:mb-4 sm:text-6xl sm:leading-none"
+          >
+            21 Pixeloids
+          </p>
+          <div
+            class="h-1 w-20 origin-left scale-x-30 transform bg-blue-700 duration-300 group-hover:scale-x-100"
+          />
+        </div>
+        <p class="text-gray-700 lg:max-w-md lg:text-sm">
+          At 21 Pixeloids, we offer a complete range of creative solutions, from stunning web design
+          and targeted advertising to captivating content creation. We help businesses in Bangalore thrive
+          online!
+        </p>
+      </div>
+      <div class="row-gap-5 sm:row-gap-6 grid mb-8 gap-6 lg:grid-cols-4 sm:grid-cols-2">
+        <a href="editor#">
+          <div
+            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1557425529-b1ae9c141e7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
+              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
+            >
+            <div
+              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
+            >
+              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
+              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
+                adipisicing elit, sed
+                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+                veniam</p>
+            </div>
+          </div>
+        </a>
+        <a href="editor#">
+          <div
+            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
+            >
+            <div
+              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
+            >
+              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
+              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
+                adipisicing elit, sed
+                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+                veniam</p>
+            </div>
+          </div>
+        </a>
+        <a href="editor#">
+          <div
+            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1484863137850-59afcfe05386?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1051&q=80"
+              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
+            >
+            <div
+              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
+            >
+              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
+              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
+                adipisicing elit, sed
+                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+                veniam</p>
+            </div>
+          </div>
+        </a>
+        <a href="editor#">
+          <div
+            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
+          >
+            <img
+              src="https://images.unsplash.com/photo-1523464862212-d6631d073194?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
+            >
+            <div
+              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
+            >
+              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
+              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
+                adipisicing elit, sed
+                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+                veniam</p>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="text-center">
+        <a
+          href="#"
+          class="inline-flex items-center text-blue-700 font-semibold transition-colors duration-200 hover:text-blue-900"
+        >Continue</a>
+        <p class="inline-flex text-blue-700">
+          <svg class="ml-2 inline-block w-3" fill="currentColor" viewbox="0 0 12 12">
+            <path
+              d="M9.707,5.293l-5-5A1,1,0,0,0,3.293,1.707L7.586,6,3.293,10.293a1,1,0,1,0,1.414,1.414l5-5A1,1,0,0,0,9.707,5.293Z"
+            />
+          </svg>
+        </p>
+      </div>
+    </div>
+  </div>
+</template>
