@@ -23,10 +23,10 @@
     <header class="absolute inset-x-0 top-0 z-50">
       <nav aria-label="Global" class="mx-auto max-w-screen-2xl flex items-center justify-between p-6">
         <div class="flex lg:flex-1">
-          <a href="#" class="p-1.5 -m-1.5">
+          <a href="/" class="p-1.5 -m-1.5">
             <span class="sr-only">21 Pixeloids</span>
             <img
-              src="https://res.cloudinary.com/speedwares/image/upload/v1659357654/windframe-logo-main_1_lbk3tr.png"
+              src="/21-512x512.png"
               alt="" class="h-8 w-auto"
             >
           </a>
@@ -51,10 +51,10 @@
           </button>
         </div>
         <div class="hidden lg:flex lg:items-center lg:gap-x-12">
-          <a href="#" lineheight="6" class="text-sm text-white font-semibold">Features</a>
-          <a href="#" lineheight="6" class="text-sm text-white font-semibold">Blog</a>
-          <a href="#" lineheight="6" class="text-sm text-white font-semibold">FAQs</a>
-          <a href="#" lineheight="6" class="text-sm text-white font-semibold">About us</a>
+          <a href="/Service" lineheight="6" class="text-sm text-white font-semibold">Service</a>
+          <a href="/Blog" lineheight="6" class="text-sm text-white font-semibold">Blog</a>
+          <a href="/Clients" lineheight="6" class="text-sm text-white font-semibold">Clients</a>
+          <a href="/About" lineheight="6" class="text-sm text-white font-semibold">About us</a>
           <a
             href="tel:917338332079" lineheight="6"
             class="rounded-md bg-[#171718] px-6 py-2.5 text-sm text-white font-semibold"
@@ -82,9 +82,9 @@
             <div class="-my-6 divide-y divide-gray-500/10">
               <div class="py-6 space-y-2">
                 <a
-                  href="#" lineheight="7"
+                  href="/services" lineheight="7"
                   class="block rounded-lg px-3 py-2 text-xl text-white font-bold -mx-3 hover:bg-gray-800"
-                >Features</a>
+                >Services</a>
                 <a
                   href="#" lineheight="7"
                   class="block rounded-lg px-3 py-2 text-xl text-white font-bold -mx-3 hover:bg-gray-800"
@@ -109,7 +109,7 @@
       </div>
     </header>
     <section class="mx-auto mt-20 max-w-2xl w-full text-center md:mt-16 space-y-10">
-      <p class="text-justify px-12 md:px-0 text-4xl font-bold tracking-tight lg:text-6xl">
+      <p class="px-12 text-justify text-4xl font-bold tracking-tight md:px-0 lg:text-6xl">
         21 Pixeloids
         <br>
       </p>

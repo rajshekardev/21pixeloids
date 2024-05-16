@@ -36,17 +36,66 @@
             <div
               class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
             >
-              <p class="mb-4 text-lg text-gray-200 font-bold">CTK Detailers</p>
-              <p class="text-sm text-gray-400 tracking-wide">CTK Detailerz is a car detailing service located in Ramamurthy Nagar, Bangalore. 
+              <p class="mb-4 text-lg text-white font-bold">CTK Detailers</p>
+              <p class="text-sm text-white tracking-wide">CTK Detailerz is a car detailing service located in Ramamurthy Nagar, Bangalore.
                 They specialize in car painting services but likely offer other detailing services  like interior cleaning, polishing, and scratch removal. </p>
             </div>
           </div>
         </a>
-        
+        <a href="https://detailerz.in">
+          <div
+            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
+          >
+            <nuxt-img
+              src="/images/bg/Screenshot 2024-05-15 164343.png"
+              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
+            />
+            <div
+              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
+            >
+              <p class="mb-4 text-lg text-white font-bold">St. Mary's Wedding planner</p>
+              <p class="text-sm text-white tracking-wide" />
+            </div>
+          </div>
+        </a>
+        <a href="https://detailerz.in">
+          <div
+            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
+          >
+            <nuxt-img
+              src="/images/bg/Screenshot 2024-05-15 164343.png"
+              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
+            />
+            <div
+              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
+            >
+              <p class="mb-4 text-lg text-white font-bold">CTK Detailers</p>
+              <p class="text-sm text-white tracking-wide">CTK Detailerz is a car detailing service located in Ramamurthy Nagar, Bangalore.
+                They specialize in car painting services but likely offer other detailing services  like interior cleaning, polishing, and scratch removal. </p>
+            </div>
+          </div>
+        </a>
+        <a href="https://detailerz.in">
+          <div
+            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
+          >
+            <nuxt-img
+              src="/images/bg/Screenshot 2024-05-15 164343.png"
+              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
+            />
+            <div
+              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
+            >
+              <p class="mb-4 text-lg text-white font-bold">CTK Detailers</p>
+              <p class="text-sm text-white tracking-wide">CTK Detailerz is a car detailing service located in Ramamurthy Nagar, Bangalore.
+                They specialize in car painting services but likely offer other detailing services  like interior cleaning, polishing, and scratch removal. </p>
+            </div>
+          </div>
+        </a>
       </div>
       <div class="text-center">
         <a
-          href="#"
+          href="https:www.detailerz.in"
           class="inline-flex items-center text-blue-700 font-semibold transition-colors duration-200 hover:text-blue-900"
         >Continue</a>
         <p class="inline-flex text-blue-700">

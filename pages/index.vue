@@ -1,17 +1,21 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Digital Studio | 21 Pixeloids Bangalore',
-  description: 'Empowering businesses with high-quality Photography, Videography, Graphic Design & Website Development (CaaS) in Bangalore. Contact us for a free consultation!',
+  title: '21 Pixeloids',
+  ogTitle: '21 Pixeloids',
+description: '21 Pixeloids is a leading digital marketing company in Bangalore, India, offering a wide range of services to help businesses grow online.',
+
+  ogDescription: '21 Pixeloids is a leading digital marketing company in Bangalore, India, offering a wide range of services to help businesses grow online.',
+  ogImage: 'https://21pixeloids.com/21-512x512.png',
 })
 </script>
 
 <template>
   <div>
-    <div class="w-full overflow-hidden bg-red-50 px-2" />
 
     <Hero />
-    <Services />
+    <Ourservice />
     <Work />
+    <Socials />
   </div>
 </template>
 
