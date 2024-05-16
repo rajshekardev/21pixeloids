@@ -25,82 +25,24 @@
         </p>
       </div>
       <div class="row-gap-5 sm:row-gap-6 grid mb-8 gap-6 lg:grid-cols-4 sm:grid-cols-2">
-        <a href="editor#">
+        <a href="https://detailerz.in">
           <div
             class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
           >
-            <img
-              src="https://images.unsplash.com/photo-1557425529-b1ae9c141e7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80"
+            <nuxt-img
+              src="/images/bg/Screenshot 2024-05-15 164343.png"
               alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
-            >
+            />
             <div
               class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
             >
-              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
-              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                veniam</p>
+              <p class="mb-4 text-lg text-gray-200 font-bold">CTK Detailers</p>
+              <p class="text-sm text-gray-400 tracking-wide">CTK Detailerz is a car detailing service located in Ramamurthy Nagar, Bangalore. 
+                They specialize in car painting services but likely offer other detailing services  like interior cleaning, polishing, and scratch removal. </p>
             </div>
           </div>
         </a>
-        <a href="editor#">
-          <div
-            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
-          >
-            <img
-              src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
-              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
-            >
-            <div
-              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
-            >
-              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
-              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                veniam</p>
-            </div>
-          </div>
-        </a>
-        <a href="editor#">
-          <div
-            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
-          >
-            <img
-              src="https://images.unsplash.com/photo-1484863137850-59afcfe05386?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1051&q=80"
-              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
-            >
-            <div
-              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
-            >
-              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
-              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                veniam</p>
-            </div>
-          </div>
-        </a>
-        <a href="editor#">
-          <div
-            class="relative transform overflow-hidden rounded shadow-lg transition duration-200 hover:shadow-2xl hover:-translate-y-2"
-          >
-            <img
-              src="https://images.unsplash.com/photo-1523464862212-d6631d073194?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
-              alt="" class="h-full w-full object-cover md:h-64 xl:h-80"
-            >
-            <div
-              class="absolute inset-0 bg-black bg-opacity-75 pb-4 pl-6 pr-6 pt-4 opacity-0 transition-opacity duration-200 hover:opacity-100"
-            >
-              <p class="mb-4 text-lg text-gray-200 font-bold">King Kong</p>
-              <p class="text-sm text-gray-400 tracking-wide">Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                veniam</p>
-            </div>
-          </div>
-        </a>
+        
       </div>
       <div class="text-center">
         <a
